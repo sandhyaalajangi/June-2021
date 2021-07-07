@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "june2021", "june2021.csproj", "{691E116C-64A5-40C8-A4B6-61E26687E328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D253D698-1995-40AA-BCA6-8F99A5D65176}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "drivers", "drivers", "{84EABAEF-2269-4315-92F8-54E80DE4D0AE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\eswar\Downloads\chromedriver_win32 (1)\chromedriver.exe = ..\..\Users\eswar\Downloads\chromedriver_win32 (1)\chromedriver.exe
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691E116C-64A5-40C8-A4B6-61E26687E328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691E116C-64A5-40C8-A4B6-61E26687E328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691E116C-64A5-40C8-A4B6-61E26687E328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691E116C-64A5-40C8-A4B6-61E26687E328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {976AD74F-7EE8-4FFB-B8AD-3F749F2362BD}
+	EndGlobalSection
+EndGlobal
